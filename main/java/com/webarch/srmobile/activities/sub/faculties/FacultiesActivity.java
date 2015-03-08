@@ -3,7 +3,7 @@ package com.webarch.srmobile.activities.sub.faculties;
 import com.webarch.srmobile.activities.sub.SubActivity;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class FacultiesActivity extends SubActivity {

@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import com.webarch.srmobile.activities.sub.views.httpfragment.HttpFragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SettingsSqliteHelper extends SQLiteOpenHelper {

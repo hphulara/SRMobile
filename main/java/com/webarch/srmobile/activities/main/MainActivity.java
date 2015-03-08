@@ -26,7 +26,7 @@ import com.webarch.srmobile.views.quickaccess.UserButton;
 import com.webarch.srmobile.views.search.SearchPane;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class MainActivity extends Activity {

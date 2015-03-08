@@ -21,7 +21,7 @@ import com.webarch.srmobile.activities.sub.evarsity.EvarsityActivity;
 import com.webarch.srmobile.tasks.SignInAsyncTask;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SignInDialogFragment extends DialogFragment {

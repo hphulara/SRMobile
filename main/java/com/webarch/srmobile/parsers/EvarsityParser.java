@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class EvarsityParser extends Parser {

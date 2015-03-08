@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class EvarsitySqliteHelper extends SQLiteOpenHelper {

@@ -8,7 +8,7 @@ import com.webarch.srmobile.activities.sub.about.views.ResearchFragment;
 import com.webarch.srmobile.activities.sub.about.views.SRMFragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AboutActivity extends SubActivity {

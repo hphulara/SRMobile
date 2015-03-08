@@ -10,7 +10,7 @@ import com.webarch.srmobile.sqlitehelpers.UsersSqliteHelper;
 import com.webarch.srmobile.utils.AndroidUtils;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class User {

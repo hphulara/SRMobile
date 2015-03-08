@@ -12,7 +12,7 @@ import com.webarch.srmobile.views.colorbuttons.BaseColorButton;
 import com.webarch.srmobile.views.colorbuttons.ColorButton;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class BackButton extends LinearLayout implements ColorButton, ColorAnimation.OnColorChangeListener {

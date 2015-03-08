@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import com.webarch.srmobile.views.colorbuttons.ImageButton;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class RetryButton extends ImageButton {

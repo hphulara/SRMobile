@@ -13,7 +13,7 @@ import com.webarch.srmobile.entities.User;
 import com.webarch.srmobile.views.quickaccess.UserButton;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SignOutDialogFragment extends DialogFragment {

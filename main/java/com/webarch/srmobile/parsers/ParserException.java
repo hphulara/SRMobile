@@ -1,7 +1,7 @@
 package com.webarch.srmobile.parsers;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ParserException extends Exception {

@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.ViewTreeObserver;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AndroidUtils {

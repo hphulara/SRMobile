@@ -16,7 +16,7 @@ import com.webarch.srmobile.views.Text;
 import java.io.IOException;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class CurriculumFragment extends ChildHttpFragment {

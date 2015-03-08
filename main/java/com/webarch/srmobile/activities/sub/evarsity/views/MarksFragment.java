@@ -7,7 +7,7 @@ import android.widget.LinearLayout;
 import com.webarch.srmobile.activities.sub.views.fragment.Fragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class MarksFragment extends Fragment {

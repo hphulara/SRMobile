@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.widget.TextView;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class Text extends TextView {

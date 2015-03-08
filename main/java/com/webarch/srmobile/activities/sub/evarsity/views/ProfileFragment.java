@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ProfileFragment extends HttpFragment {

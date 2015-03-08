@@ -19,7 +19,7 @@ import com.webarch.srmobile.views.colorbuttons.BaseColorButton;
 import com.webarch.srmobile.views.colorbuttons.ColorButton;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class UserButton extends RelativeLayout implements ColorButton, ColorAnimation.OnColorChangeListener {

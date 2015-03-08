@@ -1,7 +1,7 @@
 package com.webarch.srmobile.utils.animation;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AnimationListenerAdapter {

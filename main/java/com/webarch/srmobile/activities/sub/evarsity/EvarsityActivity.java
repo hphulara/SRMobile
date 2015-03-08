@@ -17,7 +17,7 @@ import com.webarch.srmobile.entities.User;
 import com.webarch.srmobile.views.signin.SignInDialogFragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class EvarsityActivity extends SubActivity {

@@ -8,7 +8,7 @@ import android.widget.RelativeLayout;
 import com.webarch.srmobile.R;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ActionBar extends RelativeLayout {

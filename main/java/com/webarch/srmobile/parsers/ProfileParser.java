@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ProfileParser extends Parser {

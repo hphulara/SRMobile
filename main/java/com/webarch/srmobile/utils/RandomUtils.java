@@ -1,7 +1,7 @@
 package com.webarch.srmobile.utils;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class RandomUtils {

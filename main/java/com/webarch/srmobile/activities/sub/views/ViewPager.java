@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import com.webarch.srmobile.activities.sub.views.fragment.Fragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ViewPager extends android.support.v4.view.ViewPager {

@@ -10,7 +10,7 @@ import com.webarch.srmobile.R;
 import com.webarch.srmobile.utils.animation.ColorAnimation;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ImageButton extends ImageView implements ColorButton, ColorAnimation.OnColorChangeListener {

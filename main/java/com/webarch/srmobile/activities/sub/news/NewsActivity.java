@@ -3,7 +3,7 @@ package com.webarch.srmobile.activities.sub.news;
 import com.webarch.srmobile.activities.sub.SubActivity;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class NewsActivity extends SubActivity {

@@ -11,7 +11,7 @@ import android.view.animation.ScaleAnimation;
 import java.util.ArrayList;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AnimationUtils {

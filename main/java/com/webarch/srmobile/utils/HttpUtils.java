@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class HttpUtils {

@@ -9,7 +9,7 @@ import java.net.HttpURLConnection;
 import java.util.HashMap;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SignInParser extends Parser {

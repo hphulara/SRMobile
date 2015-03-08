@@ -9,7 +9,7 @@ import android.view.animation.Animation;
 import java.util.ArrayList;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AnimationObject {

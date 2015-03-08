@@ -8,7 +8,7 @@ import com.webarch.srmobile.utils.animation.AnimationUtils;
 import com.webarch.srmobile.utils.animation.ColorAnimation;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class BaseColorButton implements ColorButton {

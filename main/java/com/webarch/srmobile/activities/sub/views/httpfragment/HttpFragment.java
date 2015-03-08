@@ -26,7 +26,7 @@ import com.webarch.srmobile.views.Text;
 import java.io.IOException;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public abstract class HttpFragment extends Fragment {

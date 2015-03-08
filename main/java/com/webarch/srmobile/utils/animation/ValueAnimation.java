@@ -4,7 +4,7 @@ import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class ValueAnimation extends Animation {

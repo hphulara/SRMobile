@@ -15,7 +15,7 @@ import com.webarch.srmobile.views.signin.SignInDialogFragment;
 import com.webarch.srmobile.views.signout.SignOutDialogFragment;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class Activity extends FragmentActivity implements ActionBar.OnClickListener, UserButton.OnClickListener {

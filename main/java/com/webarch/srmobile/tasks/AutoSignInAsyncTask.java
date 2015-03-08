@@ -15,7 +15,7 @@ import com.webarch.srmobile.views.quickaccess.UserButton;
 import java.io.IOException;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class AutoSignInAsyncTask extends AsyncTask<Void, Void, Boolean> {

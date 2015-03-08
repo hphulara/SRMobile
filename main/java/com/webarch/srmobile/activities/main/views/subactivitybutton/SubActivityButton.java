@@ -18,7 +18,7 @@ import com.webarch.srmobile.utils.animation.AnimationUtils;
 import com.webarch.srmobile.views.Text;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SubActivityButton extends RelativeLayout {

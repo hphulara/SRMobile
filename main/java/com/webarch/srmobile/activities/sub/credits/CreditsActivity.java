@@ -3,7 +3,7 @@ package com.webarch.srmobile.activities.sub.credits;
 import com.webarch.srmobile.activities.sub.SubActivity;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class CreditsActivity extends SubActivity {

@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * @author Manoj khanna
+ * @author Manoj Khanna
  */
 
 public class SubjectsFragment extends HttpFragment {
